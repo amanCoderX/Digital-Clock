@@ -18,3 +18,10 @@ A simple and elegant digital clock built using HTML, CSS, and JavaScript. It dis
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
+
+---
+
+## 🔗 Live Demo
+Check out the live version of this project here:  
+👉 [Digital Clock Live](https://digital-clock-aman.netlify.app)
+
