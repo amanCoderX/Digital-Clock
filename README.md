@@ -9,7 +9,7 @@ A simple and elegant digital clock built using HTML, CSS, and JavaScript. It dis
 - 🕒 Real-time time display (auto-updating every second)
 - 🎨 Stylish and minimal UI
 - 📱 Responsive design for all screen sizes
-- 🌗 Light and dark-friendly color scheme (if applicable)
+- 🌗 Light and dark-friendly color scheme 
 
 ---
 
