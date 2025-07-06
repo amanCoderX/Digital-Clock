@@ -21,6 +21,13 @@ A simple and elegant digital clock built using HTML, CSS, and JavaScript. It dis
 
 ---
 
+## 📸 Screenshot
+
+### 🕒 UI Preview
+![Digital Clock](screenshots/digi-clock.png)
+
+---
+
 ## 🔗 Live Demo
 Check out the live version of this project here:  
 👉 [Digital Clock Live](https://digital-clock-aman.netlify.app)
